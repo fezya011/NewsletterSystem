@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- Одна и та же статья на 5 языках -->
+    <url>
+        <loc>http://localhost:8000/de/blog/hochzeit/perfekte-hochzeitskerze</loc>
+        <lastmod>2024-03-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8000/en/blog/wedding/perfect-wedding-candle</loc>
+        <lastmod>2024-03-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8000/fr/blog/mariage/bougie-parfaite</loc>
+        <lastmod>2024-03-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8000/it/blog/matrimonio/candela-perfetta</loc>
+        <lastmod>2024-03-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8000/ru/blog/svadba/idealnaya-svadebnaya-svecha</loc>
+        <lastmod>2024-03-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+</urlset>
